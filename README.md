@@ -26,10 +26,4 @@ In addition to the technologies I currently use, I have a special interest in:
     Elixir
     MongoDB
 
-
-### Education 📚
-
-    Graduated high school with a technical degree in Computer Science at Instituto Federal de Santa Catarina (IFSC).
-    Currently pursuing a degree in Computer Science at Universidade Federal da Fronteira Sul (UFFS).
-
 Thanks for visiting my GitHub profile! 🙌
