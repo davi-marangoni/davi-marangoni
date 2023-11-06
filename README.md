@@ -11,7 +11,7 @@ Currently, my focus is on development, using the following technologies:
     TypeScript (TS)
     Node.js
     Python
-    Powershell
+    Shell
     PostgreSQL
     Docker
 
