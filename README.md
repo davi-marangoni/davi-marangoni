@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a Technology professional with 6 years of experience, having worked in various roles, including QA, DevOps, and currently employed as a fullstack WEB programmer.
+I'm a Technology professional with 7 years of experience, having worked in various roles, including QA, DevOps, and currently employed as a fullstack WEB programmer.
 
 ### Current Experience 🚀
 
